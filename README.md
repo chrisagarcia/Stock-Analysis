@@ -33,13 +33,13 @@ something like 100 stocks, you could see how the timing was going to be a real i
 13 total loops through the entire dataset, to only 1 loop made the program about 80% faster on average
 (and I assume that it approaches ~7.5% or 1/13 with larger and larger datasets).
 
-[old_vba_time_2017]
-[old_vba_time_2018]
+![2017_old](https://github.com/chrisagarcia/Stock-Analysis/blob/main/Resources/2017_old.PNG)
+![2018_old](https://github.com/chrisagarcia/Stock-Analysis/blob/main/Resources/2018_old.PNG)
 
 ### v.s.
 
-[new_vba_time_2017]
-[new_vba_time_2018]
+![new 2017](https://github.com/chrisagarcia/Stock-Analysis/blob/main/Resources/2017_new.png)
+![new_2018](https://github.com/chrisagarcia/Stock-Analysis/blob/main/Resources/2018_new.png)
 
 ---
 
