@@ -30,7 +30,7 @@ this is due to the fact that it had to essentially look through ~36,000 rows of 
 initially used a for-loop through the datasheet to build the tickers array; more like 40,000 rows). If you
 were to try to scale it up (as I would assume Steve will) to perform some prospective analysis of
 something like 100 stocks, you could see how the timing was going to be a real issue. So, the change from
-13 total loops through the entire dataset, to only 1 loop made the program about 80% faster on average
+13 total loops through the entire dataset, to only 1 loop made the program nearly 80% faster on average
 (and I assume that it approaches ~7.5% or 1/13 with larger and larger datasets).
 
 ![2017_old](https://github.com/chrisagarcia/Stock-Analysis/blob/main/Resources/2017_old.PNG)
