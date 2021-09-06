@@ -52,5 +52,3 @@ screen is unresponsive for that second while it processes. The only reason I mig
 is use the ticker finding for-loop for newer datasets. It might be worth the extra processing time it
 would take to take the ticker array build for-loop for its utility. That might be included in the next
 refactoring.
-
-[for-loop code]
